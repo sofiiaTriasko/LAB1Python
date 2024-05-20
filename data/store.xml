@@ -1,0 +1,1 @@
+<store><category id="c1" name="Fruits"><product id="p1" name="Apple" price="1.30" quantity="60" /><product id="p2" name="Banana" price="0.80" quantity="100" /></category><category id="c2" name="Vegetables"><product id="p3" name="Carrot" price="0.50" quantity="200" /></category></store>
